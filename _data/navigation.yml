@@ -1,0 +1,51 @@
+# main links
+main:
+  # - title: "Quick-Start Guide"
+  # url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+ 
+   - title: "About"
+     url: /about/
+   - title: "Category"
+     url: /categories/
+   - title: "Tag"
+     url: /tags/
+   - title: "Archive"
+     url: /year-archive/
+
+docs:
+  - title: C
+    children:
+      - title: "Code "
+        url: /docs/quick-start-guide/
+      - title: "Learn"
+        url: /docs/structure/
+      - title: "Data structure"
+        url: /docs/installation/
+      - title: "Upgrading"
+        url: /docs/upgrading/
+
+  - title: Python
+    children:
+      - title: "Code"
+        url: /docs/configuration/
+      - title: "Learn"
+        url: /docs/navigation/
+      - title: "UI Text"
+        url: /docs/ui-text/
+      - title: #"Authors"
+        url: #/docs/authors/
+      - title: #"Layouts"
+        url: #/docs/layouts/
+
+  - title: Java
+    children:
+      - title: "Code"
+        url: /docs/posts/
+      - title: "Learn"
+        url: /docs/pages/
+      - title: #"Working with Collections"
+        url: #/docs/collections/
+      - title: #"Helpers"
+        url: #/docs/helpers/
+      - title: #"Utility Classes"
+        url: #/docs/utility-classes/
