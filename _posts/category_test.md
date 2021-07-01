@@ -1,5 +1,3 @@
-# category test
-
 ---
 title: "category_test"
 excerpt_separator: "<!--more-->"
@@ -17,7 +15,7 @@ tags:
   - standard
 ---
 
-
+# category test
 ## C
 ## Cpp
 ## C#
