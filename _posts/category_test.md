@@ -10,7 +10,7 @@ categories:
   - C
   - Cpp
   - C#
-  - -Programming
+  - Programming
 tags:
   - Post Formats
   - readability
