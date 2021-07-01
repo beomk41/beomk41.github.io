@@ -100,9 +100,9 @@ author:
   location         : "Gwangju, Republic of Korea"
   email            : "kkkbs41@daum.net"
   links:
-    - # label: "Email"
-      # icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:your.name@email.com"
+    -  label: "Email"
+       icon: "fas fa-fw fa-envelope-square"
+       url: "kkkbs41@daum.net"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
