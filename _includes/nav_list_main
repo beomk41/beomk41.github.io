@@ -24,28 +24,28 @@
             <ul>
                 {% for category in site.categories %}
                     {% if category[0] == "C" %}
-                        <li><a href="/categories/cpp" class="">C ({{category[1].size}})</a></li>
+                        <li><a href="/categories/C" class="">C ({{category[1].size}})</a></li>
                     {% endif %}
                 {% endfor %}
             </ul>
             <ul>
                 {% for category in site.categories %}
                     {% if category[0] == "C#" %}
-                        <li><a href="/categories/cpp" class="">C# ({{category[1].size}})</a></li>
+                        <li><a href="/categories/C#" class="">C# ({{category[1].size}})</a></li>
                     {% endif %}
                 {% endfor %}
             </ul>
             <ul>
                 {% for category in site.categories %}
                     {% if category[0] == "Python" %}
-                        <li><a href="/categories/cpp" class="">Python ({{category[1].size}})</a></li>
+                        <li><a href="/categories/Python" class="">Python ({{category[1].size}})</a></li>
                     {% endif %}
                 {% endfor %}
             </ul>
             <ul>
                 {% for category in site.categories %}
                     {% if category[0] == "Java" %}
-                        <li><a href="/categories/cpp" class="">Java ({{category[1].size}})</a></li>
+                        <li><a href="/categories/Java" class="">Java ({{category[1].size}})</a></li>
                     {% endif %}
                 {% endfor %}
             </ul>
@@ -60,7 +60,7 @@
             <ul>
                 {% for category in site.categories %}
                     {% if category[0] == "Algorithm" %}
-                        <li><a href="/categories/algorithm" class="">Algorithm (with C) ({{category[1].size}})</a></li>
+                        <li><a href="/categories/Algorithm" class="">Algorithm (with C) ({{category[1].size}})</a></li>
                     {% endif %}
                 {% endfor %}
             </ul>
@@ -68,7 +68,7 @@
             <ul>
                 {% for category in site.categories %}
                     {% if category[0] == "Baekjoon" %}
-                        <li><a href="/categories/programmers" class="">Baekjoon ({{category[1].size}})</a></li>
+                        <li><a href="/categories/Baekjoon" class="">Baekjoon ({{category[1].size}})</a></li>
                     {% endif %}
                 {% endfor %}
             </ul>
