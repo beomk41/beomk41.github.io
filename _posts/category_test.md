@@ -3,8 +3,6 @@
 ---
 title: "category_test"
 excerpt_separator: "<!--more-->"
-header:
-  teaser: /assets/test-teaser.jpg
 toc: true
 toc_sticky: true
 categories:
