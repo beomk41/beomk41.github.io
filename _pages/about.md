@@ -19,13 +19,13 @@ toc_sticky: true
 - Name  : Beomsu Kim
 - Major : Computer Science (AI,Big Data)  
 - Minor : Finance
-- While attending university 
 
 ## Languages and skill level
 - C : ★ ★ ★ ★ ☆ 
+- C++    : ☆ ☆ ☆ ☆ ☆
 - Python : ★ ★ ★ ☆ ☆
 - Java   : ★ ★ ☆ ☆ ☆
-- C++    : ☆ ☆ ☆ ☆ ☆
+
 
 ## Introduction
 New Developer
