@@ -1,5 +1,5 @@
 ---
-title: "category_test"
+title: "category-test"
 excerpt_separator: "<!--more-->"
 toc: true
 toc_sticky: true
@@ -17,5 +17,8 @@ tags:
 
 # category test
 ## C
+C
 ## Cpp
+Cpp
 ## C#
+C#
