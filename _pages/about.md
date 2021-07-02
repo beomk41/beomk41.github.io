@@ -21,10 +21,14 @@ toc_sticky: true
 - Minor : Finance
 
 ## Languages and skill level
+### Languages
 - C : ★ ★ ★ ★ ☆ 
 - C++    : ☆ ☆ ☆ ☆ ☆
 - Python : ★ ★ ★ ☆ ☆
 - Java   : ★ ★ ☆ ☆ ☆
+
+### skill
+- Algorithm : ★ ★ ☆ ☆ ☆
 
 
 ## Introduction
