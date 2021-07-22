@@ -26,6 +26,7 @@ toc_sticky: true
 - C++    : ☆ ☆ ☆ ☆ ☆
 - Python : ★ ★ ★ ☆ ☆
 - Java   : ★ ★ ☆ ☆ ☆
+- JavaScript   : ★ ★ ☆ ☆ ☆
 
 ### skill
 - Algorithm : ★ ★ ☆ ☆ ☆
