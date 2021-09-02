@@ -64,8 +64,19 @@ cd (이동할 디렉토리) : 디렉터리 변경(change directory)의 준말이
 
 cd.. : 상위 디렉터리로 이동.
 
+![image](https://user-images.githubusercontent.com/81428281/131856082-711a166d-295d-4a95-8d02-f7928322dd2d.png)
 
+Pip가 위치하는 디렉토리까지 왔다면 다음 중 하나의 Command를 입력함으로 Tensorflow를 설치 할 수 있습니다.
 
+Tensorflow with CPU (CPU이용)
+
+_pip install tensorflow==2.0_
+
+Tensorflow with GPU (GPU이용)
+
+_pip install tensorflow-gpu==1.15.0_
+
+자신이 특정 버전의 Tensorflow를 설치하고 싶다면 해당 버전을 지정해서 설치해주시면 됩니다.
 
 
 ### Tensorflow 설치 확인  
