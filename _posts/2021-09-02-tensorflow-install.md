@@ -16,16 +16,19 @@ tags:
   - Python
 ---
 
-# Python 3.6.2 Tensorflow 설치 방법
+## Python 3.6.2, Tensorflow 설명
 
-내용
-
+파이썬 인공지능 사용 효율
+텐서플로우 머신러닝 사용 효율
 
 ## Python 3.6.2 설치 방법  
   
-링크
-사진
+https://www.python.org/downloads/windows/
+
+![image](https://user-images.githubusercontent.com/81428281/131852239-434f1aa5-7328-4585-b441-0b04fc880c7b.png)
+
 해당 이미지에서 자신의 운영체제에 맞는 파이썬을 설치하면 됩니다.
+저는 windows용 파이썬을 설치하기 위해 
 
 ## Tensorflow 설치 방법
  
