@@ -16,17 +16,23 @@ tags:
   - Python
 ---
 
-## Python 3.6.2, Tensorflow 설명
+## Tensorflow 
 
-파이썬 인공지능 사용 효율
-
-텐서플로우 머신러닝 사용 효율
+![image](https://user-images.githubusercontent.com/81428281/131857679-18d6d210-472f-444e-a077-0d39799472bc.png)
 
 
+TensorFlow는 Google에서 만든, 딥러닝 프로그램을 구현할 수 있게 다양한 기능을 제공해주는 라이브러리 입니다.  
+
+TensorFlow 자체는 C++로 구현 되어 있으며, Python, Java등 다양한 언어를 지원한다. 
+
+하지만, 대부분의 편한 기능들이 파이썬으로 구현되기 때문에 주로 파이썬에서 개발하는 모습을 보여줍니다.
 
 
 ## Python 3.6.2 설치 방법  
-  
+
+![image](https://user-images.githubusercontent.com/81428281/131857758-3e72338d-298f-4446-a177-46265c33b872.png)
+
+
 https://www.python.org/downloads/windows/
 
 
