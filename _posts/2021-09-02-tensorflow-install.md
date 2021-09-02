@@ -29,7 +29,11 @@ tags:
   
 https://www.python.org/downloads/windows/
 
+
+
 ![image](https://user-images.githubusercontent.com/81428281/131852239-434f1aa5-7328-4585-b441-0b04fc880c7b.png)
+
+
 
 해당 이미지에서 자신의 운영체제에 맞는 파이썬을 설치하면 됩니다.
 
