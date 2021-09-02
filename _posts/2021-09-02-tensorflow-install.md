@@ -33,7 +33,7 @@ TensorFlow 자체는 C++로 구현 되어 있으며, Python, Java등 다양한 �
 ![image](https://user-images.githubusercontent.com/81428281/131857758-3e72338d-298f-4446-a177-46265c33b872.png)
 
 
-https://www.python.org/downloads/windows/
+<https://www.python.org/downloads/windows/>
 
 
 
@@ -58,7 +58,7 @@ _C:\Users\USER\AppData\Local\Programs\Python\Python36\Scripts_
 
 Pip은 Windows의 Command Window나 Linux Terminal에서 실행 할 수 있으며 다음과 같은 명령어를 이용하시면 됩니다.  
 
-https://www.tensorflow.org/install
+<https://www.tensorflow.org/install>
 
 우선 Cmd나 Terminal을 실행한 뒤 명령어를 통해 Pip가 위치한 디렉토리로 이동을 합니다.
 
@@ -74,13 +74,14 @@ cd.. : 상위 디렉터리로 이동.
 
 Pip가 위치하는 디렉토리까지 왔다면 다음 중 하나의 Command를 입력함으로 Tensorflow를 설치 할 수 있습니다.
 
+```
 Tensorflow with CPU (CPU이용)
-
-_pip install tensorflow==2.0_
+pip install tensorflow==2.0
 
 Tensorflow with GPU (GPU이용)
+pip install tensorflow-gpu==1.15.0
+```
 
-_pip install tensorflow-gpu==1.15.0_
 
 자신이 특정 버전의 Tensorflow를 설치하고 싶다면 해당 버전을 지정해서 설치해주시면 됩니다.
 
@@ -89,12 +90,24 @@ _pip install tensorflow-gpu==1.15.0_
 
 Tensorflow를 설치하였다면 간단한 코드로 설치한 Tensorflow를 확인할 수 있습니다.
 
-사진
+```
+import tensorflow as tf
+tf.__version__
+```
+
+
+![image](https://user-images.githubusercontent.com/81428281/131858898-755a4b26-d876-4ff7-ad38-0f91644b7c9c.png)
 
 다음 코드로 확인한 Tensorflow 버전을 업데이트 하고 싶다면 설치와 동일한 디렉토리에 들어가
 
 
 다음과 같은 명령어를 입력하면 됩니다.
+
+```
+pip3 install --upgrade tensorflow
+
+pip3 install --upgrade tensorflow-gpu
+```
 
 
 
@@ -103,7 +116,7 @@ Tensorflow를 설치하였다면 간단한 코드로 설치한 Tensorflow를 확
 
 자신의 PC에 Python과 Tensorflow를 설치하지 않고 구글 Colab을 활용하여 Tensorflow를 이용하는 방법으로
 
-https://colab.research.google.com 에 들어가 자신의 계정에 새 노트를 만들어 이용할 수 있습니다.
+<https://colab.research.google.com> 에 들어가 자신의 계정에 새 노트를 만들어 이용할 수 있습니다.
 
 ![image](https://user-images.githubusercontent.com/81428281/131855232-36a48ef3-76c9-41d2-8000-a7820fc18b55.png)
 
