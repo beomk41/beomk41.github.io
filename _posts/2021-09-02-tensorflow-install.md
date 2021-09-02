@@ -86,10 +86,17 @@ Tensorflow를 설치하였다면 간단한 코드로 설치한 Tensorflow를 확
 
 자신의 PC에 Python과 Tensorflow를 설치하지 않고 구글 Colab을 활용하여 Tensorflow를 이용하는 방법으로
 
-사진1 (구글콜랩)
-
 https://colab.research.google.com 에 들어가 자신의 계정에 새 노트를 만들어 이용할 수 있습니다.
 
-사진2 (탠서플로우 확인 코드)
+![image](https://user-images.githubusercontent.com/81428281/131855232-36a48ef3-76c9-41d2-8000-a7820fc18b55.png)
+
+
 
 새 노트를 만들었다면 파이썬에서 Tensorflow를 확인 하였던것 처럼 Tensorflow의 버전을 확인해 볼 수 있습니다.
+
+
+
+![image](https://user-images.githubusercontent.com/81428281/131855365-6bed320b-a8e5-4b59-835b-70d669b088dd.png)
+
+
+
