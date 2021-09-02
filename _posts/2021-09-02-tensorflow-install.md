@@ -42,9 +42,12 @@ https://www.python.org/downloads/windows/
  
 Tensorflow는 pip로 설치가 가능합니다.
 
-pip 스크립은 Python이 설치된 folder에 있다.
-C:\Users\USER\AppData\Local\Programs\Python\Python36\Scripts
-Pip은 Windows의 Command Window나 Linux Terminal에서 실행 한다.  
+pip script는 Python이 설치된 폴더에 있습니다.
+
+_C:\Users\USER\AppData\Local\Programs\Python\Python36\Scripts_
+
+Pip은 Windows의 Command Window나 Linux Terminal에서 실행 할 수 있으며 다음과 같은 명령어를 이용하시면 됩니다.  
+
 https://www.tensorflow.org/install
 
 
