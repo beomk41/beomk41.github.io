@@ -40,7 +40,7 @@ https://www.python.org/downloads/windows/
 
 ## Tensorflow 설치 방법
  
-Tensorflow는 pip로 설치가 가능합니다.
+Tensorflow는 pip로 설치가 가능하며
 
 pip script는 Python이 설치된 폴더에 있습니다.
 
@@ -49,6 +49,16 @@ _C:\Users\USER\AppData\Local\Programs\Python\Python36\Scripts_
 Pip은 Windows의 Command Window나 Linux Terminal에서 실행 할 수 있으며 다음과 같은 명령어를 이용하시면 됩니다.  
 
 https://www.tensorflow.org/install
+
+우선 Cmd나 Terminal을 실행한 뒤 명령어를 통해 Pip가 위치한 디렉토리로 이동을 합니다.
+
+명령어로는 
+
+dir : 디렉터리의 파일 및 하위 디렉터리 목록을 표시
+
+cd (이동할 디렉토리) : 디렉터리 변경(change directory)의 준말이며, 현재의 작업 디렉터리의 위치를 변경. 
+
+cd.. : 상위 디렉터리로 이동.
 
 
 
