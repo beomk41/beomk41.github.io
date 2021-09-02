@@ -7,6 +7,9 @@ toc: true
 toc_sticky: true
 categories:
   - Blog
+  - Python
+  - Machine Learning
+  - Artificial Intelligence
 tags:
   - Post Formats
   - readability
