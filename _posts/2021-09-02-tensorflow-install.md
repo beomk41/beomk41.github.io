@@ -9,11 +9,11 @@ categories:
   - Blog
   - Python
   - Machine Learning
-  - Artificial Intelligence
+
 tags:
-  - Post Formats
-  - readability
-  - standard
+  - Artificial Intelligence
+  - Machine Learning
+  - Python
 ---
 
 # Python 3.6.2 Tensorflow 설치 방법
@@ -43,7 +43,12 @@ Tensorflow를 설치하였다면 간단한 코드로 설치한 Tensorflow를 확
 
 ## Google colab 활용 Tensorflow 사용법
 
-자신의 PC에 Python과 Tensorflow를 설치하지 않고 구글 Colab을 활용하여 Tensorflow를 이용하는 방법으로는
-사진
+자신의 PC에 Python과 Tensorflow를 설치하지 않고 구글 Colab을 활용하여 Tensorflow를 이용하는 방법으로
 
-https://colab.research.google.com 에 들어가 자신의
+사진1 (구글콜랩)
+
+https://colab.research.google.com 에 들어가 자신의 계정에 새 노트를 만들어 이용할 수 있습니다.
+
+사진2 (탠서플로우 확인 코드)
+
+새 노트를 만들었다면 파이썬에서 Tensorflow를 확인 하였던것 처럼 Tensorflow의 버전을 확인해 볼 수 있습니다.
