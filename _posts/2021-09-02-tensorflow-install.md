@@ -21,7 +21,7 @@ tags:
 <img src="https://user-images.githubusercontent.com/81428281/131857679-18d6d210-472f-444e-a077-0d39799472bc.png" width="300" height="70"/>
 
 
-TensorFlow는 Google에서 만든, 딥러닝 프로그램을 구현할 수 있게 다양한 기능을 제공해주는 라이브러리다.  
+TensorFlow는 Google에서 만든, 딥러닝 프로그램을 구현할 수 있게 다양한 기능을 제공해주는 라이브러리로  
 
 TensorFlow 자체는 C++로 구현 되어 있으며, Python, Java등 다양한 언어를 지원한다. 
 
