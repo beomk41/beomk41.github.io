@@ -18,7 +18,7 @@ tags:
 
 ## Tensorflow 
 
-![image](https://user-images.githubusercontent.com/81428281/131857679-18d6d210-472f-444e-a077-0d39799472bc.png)
+<img src="https://user-images.githubusercontent.com/81428281/131857679-18d6d210-472f-444e-a077-0d39799472bc.png" width="300" height="70"/>
 
 
 TensorFlow는 Google에서 만든, 딥러닝 프로그램을 구현할 수 있게 다양한 기능을 제공해주는 라이브러리다.  
@@ -30,14 +30,15 @@ TensorFlow 자체는 C++로 구현 되어 있으며, Python, Java등 다양한 �
 
 ## Python 3.6.2 설치 방법  
 
-![image](https://user-images.githubusercontent.com/81428281/131857758-3e72338d-298f-4446-a177-46265c33b872.png)
+<img src="https://user-images.githubusercontent.com/81428281/131857758-3e72338d-298f-4446-a177-46265c33b872.png" width="300" height="70"/>
 
 
 <https://www.python.org/downloads/windows/>
 
 
 
-![image](https://user-images.githubusercontent.com/81428281/131852239-434f1aa5-7328-4585-b441-0b04fc880c7b.png)
+<img src="https://user-images.githubusercontent.com/81428281/131852239-434f1aa5-7328-4585-b441-0b04fc880c7b.png" width="680" height="400"/>
+
 
 
 
@@ -70,7 +71,7 @@ cd (이동할 디렉토리) : 디렉터리 변경(change directory)의 준말이
 
 cd.. : 상위 디렉터리로 이동.
 
-![image](https://user-images.githubusercontent.com/81428281/131856082-711a166d-295d-4a95-8d02-f7928322dd2d.png)
+<img src="https://user-images.githubusercontent.com/81428281/131856082-711a166d-295d-4a95-8d02-f7928322dd2d.png" width="680" height="400"/>
 
 pip가 위치하는 디렉토리까지 왔다면 다음 중 하나의 Command를 입력함으로 Tensorflow를 설치 할 수 있다.
 
@@ -96,7 +97,7 @@ tf.__version__
 ```
 
 
-![image](https://user-images.githubusercontent.com/81428281/131858898-755a4b26-d876-4ff7-ad38-0f91644b7c9c.png)
+<img src="https://user-images.githubusercontent.com/81428281/131858898-755a4b26-d876-4ff7-ad38-0f91644b7c9c.png" width="680" height="300"/>
 
 다음 코드로 확인한 Tensorflow 버전을 업데이트 하고 싶다면 설치와 동일한 디렉토리에 들어가
 
@@ -118,15 +119,14 @@ pip3 install --upgrade tensorflow-gpu
 
 <https://colab.research.google.com> 에 들어가 자신의 계정에 새 노트를 만들어 이용할 수 있다.
 
-![image](https://user-images.githubusercontent.com/81428281/131855232-36a48ef3-76c9-41d2-8000-a7820fc18b55.png)
+<img src="https://user-images.githubusercontent.com/81428281/131855232-36a48ef3-76c9-41d2-8000-a7820fc18b55.png" width="680" height="500"/>
 
 
 
 새 노트를 만들었다면 파이썬에서 Tensorflow를 확인 하였던것 처럼 Tensorflow의 버전을 확인해 볼 수 있다.
 
 
-
-![image](https://user-images.githubusercontent.com/81428281/131855365-6bed320b-a8e5-4b59-835b-70d669b088dd.png)
+<img src="https://user-images.githubusercontent.com/81428281/131855365-6bed320b-a8e5-4b59-835b-70d669b088dd.png" width="680" height="300"/>
 
 
 
