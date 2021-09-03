@@ -72,7 +72,7 @@ cd.. : 상위 디렉터리로 이동.
 
 ![image](https://user-images.githubusercontent.com/81428281/131856082-711a166d-295d-4a95-8d02-f7928322dd2d.png)
 
-Pip가 위치하는 디렉토리까지 왔다면 다음 중 하나의 Command를 입력함으로 Tensorflow를 설치 할 수 있다.
+pip가 위치하는 디렉토리까지 왔다면 다음 중 하나의 Command를 입력함으로 Tensorflow를 설치 할 수 있다.
 
 ```
 Tensorflow with CPU (CPU이용)
