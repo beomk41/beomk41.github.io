@@ -28,6 +28,12 @@ TensorFlow 자체는 C++로 구현 되어 있으며, Python, Java등 다양한 �
 하지만, 대부분의 편한 기능들이 파이썬으로 구현되기 때문에 주로 파이썬에서 개발하는 모습을 보여준다.
 
 
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
 ## Python 3.6.2 설치 방법  
 
 <img src="https://user-images.githubusercontent.com/81428281/131857758-3e72338d-298f-4446-a177-46265c33b872.png" width="300" height="70"/>
@@ -46,8 +52,12 @@ TensorFlow 자체는 C++로 구현 되어 있으며, Python, Java등 다양한 �
 
 저의 경우 windows용 파이썬을 설치하기 위해 _Windows x86-64 executable installer_ 를 설치 하였습니다.
 
-
-
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
 
 ## Tensorflow 설치 방법
  
@@ -86,6 +96,9 @@ pip install tensorflow-gpu==1.15.0
 
 자신이 특정 버전의 Tensorflow를 설치하고 싶다면 해당 버전을 지정해서 설치해주시면 된다.
 
+<br/>
+<br/>
+<br/>
 
 ### Tensorflow 설치 확인  
 
@@ -110,8 +123,12 @@ pip3 install --upgrade tensorflow
 pip3 install --upgrade tensorflow-gpu
 ```
 
-
-
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
 
 ## Google colab 활용 Tensorflow 사용법
 
